@@ -1,8 +1,10 @@
-- 👋 Hello! I’m @moraesraquel
-- 👀 I’m interested in learning Data and Web Development
-- 🌱 I’m currently learning Python and Web Development
-- 💞️ I’m looking to collaborate on projects with data analysis and web development
-- 📫 How to reach me on linkedin:  https://www.linkedin.com/in/raquelomoraes/ and Twitter: @treinandorobos
+• 👋 Olá! Eu sou a Raquel. </br>
+• ⚡ Estudando Engenharia Elétrica e Desenvolvimento de Sistemas </br>
+• 💌 Contato: raquel.moraes@engenharia.ufjf.br </br>
+• 🌐 <a href="https://www.linkedin.com/in/raquelomoraes/">LinkedIn</a> </br>
+• ✨ <a href="https://www.instagram.com/raquelmoraesx/">Instagram</a> </br>
+
+ 
 
 <!---
 moraesraquel/moraesraquel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
