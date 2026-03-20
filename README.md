@@ -1,8 +1,7 @@
 • 👋 Olá! Eu sou a Raquel. </br>
 • ⚡ Estudando Engenharia Elétrica e Desenvolvimento de Sistemas </br>
-• 💌 Contato: raquel.moraes@engenharia.ufjf.br </br>
+• 💌 Contato: rquel.moraes2@gmail.com </br>
 • 🌐 <a href="https://www.linkedin.com/in/raquelomoraes/">LinkedIn</a> </br>
-• ✨ <a href="https://www.instagram.com/raquelmoraesx/">Instagram</a> </br>
 
  
 
