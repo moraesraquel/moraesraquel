@@ -2,11 +2,11 @@
 
 ### dados, negócios e tecnologia.
 
-Graduada em Ciências Exatas pela UFJF e cursando Estatística, interessada em transformar dados em informação útil para a tomada de decisões.
+graduada em Ciências Exatas pela UFJF e cursando Estatística, interessada em transformar dados em informação útil para a tomada de decisões.
 
-Minha trajetória combina experiências em Planejamento Comercial, Gestão de Projetos, Business Intelligence e Análise de Negócios. Gosto de entender problemas, investigar dados, identificar oportunidades e construir soluções que conectem tecnologia e estratégia.
+minha trajetória combina experiências em Planejamento Comercial, Gestão de Projetos, Business Intelligence e Análise de Negócios. gosto de entender problemas, investigar dados, identificar oportunidades e construir soluções que conectem tecnologia e estratégia.
 
-Atualmente, estou aprofundando meus conhecimentos em análise de dados, automação de processos, inteligência artificial e engenharia de analytics.
+atualmente, estou aprofundando meus conhecimentos em análise de dados, automação de processos, inteligência artificial e engenharia de analytics.
 
 ---
 
